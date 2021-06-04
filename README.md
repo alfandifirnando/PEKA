@@ -2,8 +2,9 @@
 This is the Machine Learning repository for B21-CAP0039 final project for Bangkit Academy 2021
 
 
-# @alfandifirnando
-# @Marya021
+# Authors
+* @alfandifirnando
+* @Marya021
 
 # Documentation
 https://drive.google.com/drive/folders/1ahctqGAX3JCrBzOSpdr1PQocsYmN-A48
