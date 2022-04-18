@@ -1,0 +1,61 @@
+This data was collected (2019-2021) through an interactive on-line personality test.
+The personality test was constructed with the "Parenting style guide for parents" 
+Participants were informed that their responses would be recorded and used for research at the beginning of the test, and asked to confirm their consent at the end of the test.
+
+The following items were presented on one page and each was rated on a five point scale using radio buttons. The order on page was was AE1,AN1,PE1 etc.
+The scale was labeled 1=Disagree, 3=Neutral, 5=Agree
+
+AE1	Orang Tua menyadari masalah atau yang menjadi pusat perhatian saya di sekolah
+AE2	Orang Tua menyadari masalah atau yang menjadi pusatperhatian saya di sekolah.
+AE3	Orang Tua memberi pengahargaan kepada saya ketika saya menjadi anak yang baik.
+AE4	Orang Tua memberikan kenyamanan dan pemahaman ketikasaya sedang kecewa.
+AE5	Orang Tua mengekspresikan afeksi melalui memeluk, menciumdan menggendong anak.
+AE6	Orang Tuamenunjukkan simpati ketika saya terluka atau frustasi.
+AE7	Orang Tua sering mengapresiasi apa yang telah saya coba atautugas yang saya selesaikan.
+AE8	Orang Tua responsif terhadap perasaan atau kebutuhan anak.
+AE9	Orang Tua mendorong saya untuk membicarakan kesulitan saya,
+AE10	Orang Tuamemiliki kehangatan dan keintiman dengan saya.
+AE11	Orang Tuameminta maaf kepada saya ketika membuat suatukesalahan dalam pengasuhan.
+AE12	Orang Tua menjelaskan kepada saya akibat dari perilaku saya.
+AE13	Orang Tua memberikan alasan mengapa saya harus patuh.
+AE14	Orang Tua menekankan alasan-alasan tentang aturan yang ada.
+AE15	Orang Tua membantu saya untuk memahami dampak dariperilaku melalui memberi dukungan terhadap saya.
+AE16	Orang Tua menjelaskan bagaimana kita merasakan perilaku baikdan buruk.
+AE17	Orang Tua membicarakan dengan saya lebih lanjut dan alasan- alasannya ketika saya berperilaku salah.
+AE18	Orang Tua memberitahu perilaku saya yang diharapkannya sebelum saya terlibat dalam aktivitas
+AE19	Orang Tua memperhitungkan pilihan pilihan saya dalam membuat rencana keluarga.
+AE20	Orang Tua mengijinkan saya untuk memberi masukan dalam aturan keluarga.
+AE21	Orang Tua memperhitungkan keinginan saya sebelum memintasaya melakukan sesuatu.
+AE22	Orang Tua mendorong saya mengekspresikan diri secara bebasbahkan ketika saya tidak setuju kepada orang tua.
+AE23	Orang Tua mudah dan rileks dengan saya.
+AE24	Orang Tua menunjukkan kesabaran kepada saya.
+AE25	Orang Tua senang bercanda dan bermain dengan saya.
+AE26	Orang Tua menunjukkan penghargaan terhadap pendapat-pendapat saya melalui mendorong saya untuk berekspresi.
+AN1	Orang Tua sering meledakan kemarahan terhadap saya.
+AN2	Orang Tua berteriak ketika saya berperilaku salah.
+AN3	Orang Tua sering bertengkar dengan saya.
+AN4	Orang Tua sering berselisih dengan saya
+AN5	Orang Tua menggunakan hukuman fisik sebagai cara memdisiplinkan anak.
+AN6	Orang Tua memukul (pantat) saya ketika saya tidak patuh.
+AN7	Orang Tua menampar saya ketika saya berperilaku salah.
+AN8	Orang Tua meraih saya ketika saat saya tidak taat.
+AN9	Orang Tua membimbing saya dengan hukuman berlebihan daripada dengan alasan.
+AN10	Orang Tua menyigkirkan anak ketika anak itu tidak patuh.
+AN11	Orang Tua menghukum saya dengan mengambil hak saya dengansedikit penjelasan.
+AN12	Orang Tua menghukum dengan menempatkan saya di suatu tempat sendirian dengan sedikit penjelasan.
+AN13	Orang Tua menggunakan ancaman sebagai hukuman dengan sedikit atau tidak ada pembenaran.
+AN14	Orang Tua menghukum saya dengan mengambil hak saya dengan sedikit penjelasan.
+AN15	Orang Tua menghukum dengan menempatkan saya di suatu tempat sendirian dengan sedikit penjelasan.
+PE1	Orang Tua menyatakan kepada saya akan menghukum saya dan tidak benar-benar dilakukan.
+PE2	Orang Tua lebih sering mengancam saya dengan hukuman daripadayang diberikan.
+PE3	Orang Tua menyerahkan kepada anak ketika anak menyebabkan suatu keributan.
+PE4	Orang Tua menyuap saya supaya saya patuh.
+PE5	Orang Tua membiarkan saya mengganggu orang lain.
+PE6	Orang Tua membiarkan saya sebagai penyebab orang lain marah..
+PE7	Orang Tua mengabaikan perilaku saya yang salah.
+PE8	Orang Tua tidak yakin tentang cara mengatasi perilaku saya yang salah.
+PE9	Orang Tua merasa sulit mendisiplinkan saya.
+PE10	Orang Tua takut mendisiplinkankan anak karena takut dikatakan kelakuannya buruk oleh anak yang menyebabkan anak tidak menyukainya.
+
+
+The time spent on each question is also recorded in milliseconds. These are the variables ending in _E. This was calculated by taking the time when the button for the question was clicked minus the time of the most recent other button click.
